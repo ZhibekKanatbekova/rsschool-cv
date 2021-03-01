@@ -1,1 +1,2 @@
-https://ZhibekKanatbekova.github.io/rsschool-cv/cv
+https://zhibekkanatbekova.github.io/rsschool-cv/cv
+
