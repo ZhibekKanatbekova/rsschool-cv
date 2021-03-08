@@ -9,7 +9,7 @@ background-color: bisque;
 ul {
   list-style-type: none;
 }
-main, section, header {
+main, section, header, .project {
  display: flex;
  justify-content: center;
  align-items: center;
@@ -24,7 +24,7 @@ width: 960px;
 
 }
 
-.workEdu, .skillsLang{
+.workEdu, .skillsLang {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
