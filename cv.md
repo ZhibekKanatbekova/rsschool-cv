@@ -19,10 +19,9 @@
          </ul>
      </nav>
   </header>
-   <hr>
    <main>
       <section class="summary">
-          <h2>Summary</h2>
+          <summary><h2>Summary</h2></summary>
           <p>Professional with 5 years of experience in customer service and sales. Aiming to use my
             communication and negotiation skills to effectively fill the relevant position. I am a highly
             motivated, customer focused and hardworking person who is very passionate to join your company.</p>
@@ -44,20 +43,20 @@
               <td>“El Tour” travel agency <br> Tour agent</td>
             </tr>
           </table>
-        </div>
-        <div class="education">
-          <h1>Education</h1>
-            <table>
-              <tr>
-                <td>Kyrgyz-Turkish Manas University <br>Bachelor of Science in Management</td>
-                <td>September 2010- June 2015</td>
-              </tr>
-              <tr>
-                <td>The Central Bank of Turkey</td>
-                <td>August 2014</td>
-              </tr>
-            </table>
-        </div>
+      </div>
+      <div class="education">
+        <h1>Education</h1>
+          <table>
+            <tr>
+              <td>Kyrgyz-Turkish Manas University <br>Bachelor of Science in Management</td>
+              <td>September 2010- June 2015</td>
+            </tr>
+            <tr>
+              <td>The Central Bank of Turkey</td>
+              <td>August 2014</td>
+            </tr>
+          </table>
+      </div>
       </section>
       <div class="skillsLang">
          <section class="skills">
@@ -67,7 +66,7 @@
               <li>Javascript</li>
               <li>Web frameworks, </li>
               <li>Teamwork</li>
-              <li>EJS</li>
+              <li>Attention to detail</li>
             </ul>
         </section>
         <section class="lang">
@@ -84,21 +83,10 @@
             </table>
         </section>
       </div>
-      <div class="project">
-        <h2>My sketches and codes</h2>
-        <article>
-           <img src="my projects-ejs.png" alt="here supposed to be EJS picture">
-          <img src="my projects-ejs-api.png" alt="here supposed to be Ejs picture">
-        </article>
-        <article>
-          <img src="my projects-weather.png" alt="here supposed to be weather picture">
-          <img src="my projects-weather-code.png" alt="here supposed to be weather picture">
-        </article>
-      </div>
-
    </main>
    <footer>
 
    </footer>
 </body>
 </html>
+
